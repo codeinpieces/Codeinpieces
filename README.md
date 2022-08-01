@@ -10,6 +10,10 @@
 
 ---
 
+[![Codingpieces's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingpieces)](https://github.com/Codingpieces)
+
+---
+
 ### i really like...
 
 - 🌩 science and philosophy, or knowledge in general
