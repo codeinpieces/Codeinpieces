@@ -10,8 +10,8 @@
 
 ---
 
-[![Codingpieces's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingpieces)](https://github.com/Codingpieces)
-
+[![Codingpieces's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingpieces&show_icons=true&theme=monokai)](https://github.com/Codingpieces)
+[![lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=codingpieces&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### i really like...
