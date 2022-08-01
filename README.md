@@ -1,5 +1,5 @@
 <center>
-  <h1> Hi, I’m @Codingpieces</h1>
+  <h1 align="center"> Hi, I’m @Codingpieces</h1>
 </center>
 
 ---
