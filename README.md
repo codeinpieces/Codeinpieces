@@ -68,6 +68,23 @@
       <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
   </p>
 
+<h2>Hobbies</h2>
+I'm Chill, Not always on this activities but when I'm out of my duties a could make any of theses:
+
+- Science and Math
+- Sci fi & Fantasy
+- Philosophy & Economy
+- Reading & draw
+- VideoGames
+- Music
+
+<h2>Projects</h2>
+Nothing for now, but I will be developing interesting things here, soon enough >=D
+
+Here my youtube channel just in case someday I publish something (probably related with some of this topics)
+
+<a href="youtube.com/@BastionDeSkendrion"><img alt="youtube" src="https://img.shields.io/badge/youtube-FF0000?style=social&logo=youtube"></a>
+
 <h2 align="left">Tools, Libraries and Stacks</h2>
   
   <h3>🤖 DataScience</h3>
@@ -126,12 +143,3 @@
     <img alt="neovim" src ="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white">
     <img alt="emacs" src ="https://img.shields.io/badge/Emacs-7F5AB6?logo=gnuemacs&logoColor=white">
   </p>
-
-<h2>Hobbies</h2>
-
-- 🌩 Science and Math
-- 🛸 Sci fi & Fantasy
-- 🪙 Philosophy & Economy
-- 📑 Reading & draw
-- 🎮 VideoGames
-- 🎸 Music
